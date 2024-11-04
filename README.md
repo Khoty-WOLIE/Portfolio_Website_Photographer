@@ -8,7 +8,7 @@ Ce projet est un site web personnel que j'ai créé pour mettre en avant mes com
 
 ## Aperçu du site
 
-![Aperçu du site web](images/CCapture_site_internet.PNG)
+![Aperçu du site web](images/Capture_site_internet.PNG)
 
 ## Fonctionnalités principales
 
