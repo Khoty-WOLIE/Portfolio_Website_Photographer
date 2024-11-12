@@ -6,9 +6,7 @@ Projet de création d'un site internet pour un photographe, mettant en avant les
 
 Ce projet est un site web personnel que j'ai créé pour mettre en avant mes compétences en photographie et mon portfolio. Il est conçu avec HTML et CSS, et présente les différentes sections d'un site professionnel pour photographe, telles que l'accueil, le portfolio et la section à propos.
 
-## Aperçu du site
 
-![Aperçu du site web](images/Capture_site_internet.PNG)
 
 ## Fonctionnalités principales
 
